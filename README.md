@@ -1,3 +1,3 @@
-# TeeBridge
+# TeeBridge - DDNet Proxy Server
 
-> Proxy designed to link Teeworlds 0.6/DDRaceNetwork 19.3 servers
+A proxy server implementation for DDNet/Teeworlds that forwards connections from real clients to a real server, allowing you to intercept, modify, or analyze network traffic between clients and the server.
